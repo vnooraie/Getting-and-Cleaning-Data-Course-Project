@@ -1,0 +1,16 @@
+Variables
+
+String variables that contain file locations:
+
+dataFolder <- "./UCI HAR Dataset/"
+
+trainFolder <- "./UCI HAR Dataset/train/"
+
+testFolder <- "./UCI HAR Dataset/test/"
+Raw data variables
+
+features: features variables to be used for column name of the final data set activity_labels: names of activities
+
+X_train_data: training data train_label: (activity) label of training data subject_train: subject ID
+
+X_test_data: test data test_label: (activity) label of training data subject_test: subject ID
